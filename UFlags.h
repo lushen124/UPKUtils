@@ -1,6 +1,8 @@
 #ifndef UFLAGS_H_INCLUDED
 #define UFLAGS_H_INCLUDED
 
+#include <cstdint>
+
 /// flags
 enum class UPackageFlags: uint32_t
 {

@@ -1,5 +1,6 @@
 #include "ModParser.h"
 
+#include <cstdint>
 #include <iostream>
 #include <sstream>
 #include <cstring>
